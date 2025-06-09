@@ -1,0 +1,2 @@
+C:/weather_app-master/android/app/.cxx/RelWithDebInfo/e3t185b3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/weather_app-master/android/app/.cxx/RelWithDebInfo/e3t185b3/arm64-v8a/CMakeFiles/rebuild_cache.dir
