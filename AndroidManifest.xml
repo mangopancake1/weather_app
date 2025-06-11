@@ -1,0 +1,5 @@
+<!-- Minimal manifest for Eclipse compatibility -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.madusem.weatherapp.weather_app">
+    <!-- ...existing manifest content... -->
+</manifest>
